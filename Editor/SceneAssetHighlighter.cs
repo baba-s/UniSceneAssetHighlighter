@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 namespace KoganeUnityLib
 {
 	[InitializeOnLoad]
-	public static class SceneAssetHighlighter
+	internal static class SceneAssetHighlighter
 	{
 		private static readonly Color COLOR = new Color32( 255, 32, 32, 64 );
 		
