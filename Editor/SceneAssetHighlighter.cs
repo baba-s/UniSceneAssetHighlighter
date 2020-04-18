@@ -3,7 +3,7 @@ using UnityEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace KoganeUnityLib
+namespace UniSceneAssetHighlighter
 {
 	[InitializeOnLoad]
 	internal static class SceneAssetHighlighter
